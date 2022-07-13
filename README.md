@@ -18,13 +18,13 @@ https://netflix-clone-app-9209e.web.app/
 
 ### demo 画像
 
-![Image from Gyazo](https://gyazo.com/c434f28e081237d17200ae60099797c6)
+[![Image from Gyazo](https://gyazo.com/c434f28e081237d17200ae60099797c6)]
 
 Netflix の映画のリストを取得し、カテゴリ別に表示します。
-![Image from Gyazo](https://gyazo.com/e41c07e5581839d3c3a66226f55602d4)
+[![Image from Gyazo](https://gyazo.com/e41c07e5581839d3c3a66226f55602d4)]
 
 映画をクリックすると、YouTube のプロモーションビデオに移動します。
-![Image from Gyazo](https://gyazo.com/26a91d9fe6247c2854a13c5a2144ae54)
+[![Image from Gyazo](https://gyazo.com/26a91d9fe6247c2854a13c5a2144ae54)]
 
 ## Reference
 
