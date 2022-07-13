@@ -25,7 +25,7 @@ type Movie = {
 type Options = {
     height: string;
     width: string;
-    playerVals: {
+    playerVars: {
         autoplay: 0 | 1 | undefined;
     };
 };
@@ -41,16 +41,15 @@ export const Row = ({ title, fetchUrl, isLargeRow }: Props) => {
             setMovies(request.data.results);
             return request;
         }
-
         fetchData();
     }, [fetchUrl]);
 
     const opts: Options = {
         height: "390",
         width: "640",
-        playerVals: {
+        playerVars: {
             // https://developers.google.com/youtube/player_parameters
-            autoplay: 1,
+            autoplay: 0,
         },
     };
 
