@@ -24,7 +24,7 @@ Netflix の映画のリストを取得し、カテゴリ別に表示します。
 ![Image from Gyazo](https://i.gyazo.com/e41c07e5581839d3c3a66226f55602d4.jpg)
 映画をクリックすると、YouTube のプロモーションビデオに移動します。
 
-![Image from Gyazo](https://i.gyazo.com/26a91d9fe6247c2854a13c5a2144ae54.gif)
+![Image from Gyazo](https://gyazo.com/22d8dddbd334fe31b76b249fa7045cff.gif)
 
 ## Reference
 
